@@ -1,5 +1,10 @@
 streamlit
 pandas
-numpy
-scikit-learn==1.6.1
-joblib
+numpy<2.0.0
+scikit-learn
+altair
+pydeck
+pillow
+openpyxl
+matplotlib
+seaborn
